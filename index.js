@@ -8,7 +8,6 @@ function myAnimal() {
 function yourAnimal() {
   return function yourAnimal() {
     var animal = 'cat'
-    return animal
   }
 }
 
